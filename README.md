@@ -1,6 +1,6 @@
 <h2 align="center">
   <div align="center">
-  <img src="https://media.giphy.com/media/qneKnTh4cI7VJjpllI/giphy.gif" width="200"/>
+  <img src="cloud reversed.gif" width="200"/>
   --- Welcome to Colas Gelin's profile ! ---
   <img src="https://media.giphy.com/media/qneKnTh4cI7VJjpllI/giphy.gif" width="200"/>
 </h2>
