@@ -8,10 +8,14 @@
 
 ### 🧔🏻‍♂️ About Me :
 
-- 🪴 23 years old.
-- 📖 Currently studying at 42Lyon !
-- 🎮 Started coding making Mobile Games.
-- ☎️ Interested about Mobile Apps development.
+- 🪴 24 years old.
+- 📖 Studying at [42Lyon](https://42Lyon.fr)
+- 👔 Currently working at [CumarAI](https://cumar.ai/)
+
+### 👨🏻‍🎓 Passionated by :
+- 🌐 Web developpement
+- 🎨 3D Design
+- 🤖 Artificial Intelligence
 <br>
 <h2 align="center"> 🛠 Languages & Tools 🛠 </h2>
 <br>
